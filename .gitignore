@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+buildpro.db
+*.db
+.DS_Store
