@@ -69,8 +69,10 @@ A simple React Native app for managing invoices and projects.
 
 3. **Install FastAPI and Uvicorn:**
    ```
-   pip install fastapi uvicorn
+   uv pip install fastapi uvicorn
    ```
+4. install requirements.txt:
+    uv pip install -r requirements.txt
 
 4. **Create a simple FastAPI app in `main.py`:**
    ```python
